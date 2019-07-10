@@ -1,0 +1,3 @@
+/opt/IMX_SDK/SDK_ARM_LINUX/boards/evkmimxrt1064/demo_apps/hello_world/armgcc/CMakeFiles/rebuild_cache.dir
+/opt/IMX_SDK/SDK_ARM_LINUX/boards/evkmimxrt1064/demo_apps/hello_world/armgcc/CMakeFiles/edit_cache.dir
+/opt/IMX_SDK/SDK_ARM_LINUX/boards/evkmimxrt1064/demo_apps/hello_world/armgcc/CMakeFiles/hello_world.elf.dir
